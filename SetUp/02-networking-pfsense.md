@@ -1,4 +1,4 @@
-# Network Segmentation and pfSense Setup (Process Overview)
+# Network Segmentation and pfSense Setup
 
 This section documents how pfSense was set up as the central network component in the lab, including the reasoning behind each configuration step.
 
