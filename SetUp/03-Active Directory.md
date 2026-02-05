@@ -1,4 +1,4 @@
-# Active Directory Domain Setup (Process Overview)
+# Active Directory Domain Setup
 
 This section documents the complete process used to set up Active Directory in the lab, starting from downloading the Windows Server ISO to creating domain users. Active Directory is a core component of the lab because it provides centralized identity management and generates authentication and authorization logs that are later analyzed in Splunk.
 
