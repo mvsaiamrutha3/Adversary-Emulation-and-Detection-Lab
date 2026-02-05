@@ -64,6 +64,7 @@ Example PowerShell command used to list domain users:
 ```powershell
 Get-ADUser -Filter *
 
+```
 
 ## Next Step: Domain-Joined Windows Client (WIN-01)
 
