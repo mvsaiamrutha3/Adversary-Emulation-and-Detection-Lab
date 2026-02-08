@@ -1,4 +1,4 @@
-# Splunk Universal Forwarder on Windows 10 
+# Splunk Universal Forwarder on Windows 10 and DC
 
 This section describes how I configured the Splunk Universal Forwarder on a Windows 10 system. The goal was to collect Windows Event Logs from the endpoint and forward them to the central Splunk Enterprise instance running on the Domain Controller.
 
