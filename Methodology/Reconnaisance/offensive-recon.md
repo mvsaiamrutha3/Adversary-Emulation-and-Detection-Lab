@@ -112,7 +112,7 @@ nmap --script smb-os-discovery -p 445 172.16.50.10
 
 This provided useful information about the operating system and domain environment, which is critical for planning later Active Directory attacks.
 
-![SMB OS Discovery](../Images/recon-smb-os.png)
+![SMB OS Discovery](../../Images/recon-smb-os.png)
 
 ## Reconnaissance Phase Summary
 
